@@ -1,2 +1,2 @@
-- fullstack-examles
+- fullstack-examples
 - Reference: https://www.udemy.com/user/senol-atac/
